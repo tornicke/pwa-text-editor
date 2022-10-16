@@ -102,4 +102,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshot
 
+[Deployed application URL](https://pwa-text-editor-7.herokuapp.com/)
+
 [GitHub repository URL](https://github.com/tornicke/pwa-text-editor)
