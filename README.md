@@ -93,3 +93,9 @@ THEN I should have proper build scripts for a webpack application
 - Repository contains multiple descriptive commit messages
 
 - Repository contains quality README file with description, screenshot, and link to deployed application
+
+## Screenshot
+
+### Landing page
+
+![image](https://github.com/tornicke/pwa-text-editor/blob/caea1c26d49f6ac93777b3b7919f0fcf5fce1498/images/Screenshot%20PWA%20Text%20Editor.png)
